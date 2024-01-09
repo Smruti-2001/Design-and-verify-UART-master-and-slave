@@ -1,0 +1,189 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VERILOG PROJECTS/UART PROJECT/TRANSMITTER_TX
+T_opt
+!s110 1704195993
+VnzIom]<eTOWfd7N0jm2Hg1
+04 14 4 work transmitter_tb fast 0
+=1-7c8ae106be20-6593f799-1ac-1460
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+vcounter_tx
+Z2 !s110 1704195992
+!i10b 1
+!s100 >=SX3o3gW_PjNzHIejJVS2
+IVHW_U;GEA=N^m<`kkPa0P3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1704194388
+8counter_tx.v
+Fcounter_tx.v
+L0 2
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1704195992.000000
+Z6 !s107 transmitter.v|paritygen_tx.v|mux41_tx.v|fsm_tx.v|piso_tx.v|counter_tx.v|transmitter_tb.v|
+Z7 !s90 -reportprogress|300|transmitter_tb.v|+acc|
+!i113 0
+Z8 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vfsm_tx
+R2
+!i10b 1
+!s100 1MhWhhMefX:6E5cdamm:B2
+IdHb3AY6B<;;Nm:P][;Zzg1
+R3
+R0
+w1704194517
+8fsm_tx.v
+Ffsm_tx.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vmux41_tx
+R2
+!i10b 1
+!s100 >[eADMi?92R=@[lV]dN>Z2
+I_g8GzAnFW7lZ5hgUH;A:90
+R3
+R0
+w1704194527
+8mux41_tx.v
+Fmux41_tx.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vparitygen_tx
+R2
+!i10b 1
+!s100 d;`e_0PZ8HmQnZ;n1RFlZ3
+IQT6O>3cDm0ZEe<]z1_ET10
+R3
+R0
+w1704194606
+8paritygen_tx.v
+Fparitygen_tx.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vpiso_tx
+R2
+!i10b 1
+!s100 ^H_]fniUkd]2PQD5oP89b0
+I82I2OW[N0Cz;bNFLAn5;K2
+R3
+R0
+w1704194643
+8piso_tx.v
+Fpiso_tx.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vtransmitter
+R2
+!i10b 1
+!s100 X>`fb;fH4ISoaDlD;eUSK3
+IjbS_B@[5:dOAHdXkdJZ_m2
+R3
+R0
+w1704194712
+8transmitter.v
+Ftransmitter.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vtransmitter_tb
+R2
+!i10b 1
+!s100 B1:YjTlzS0X[V[?@6AjOk0
+IF?FHnYnn@eAl14n]YfoeL2
+R3
+R0
+w1704195855
+8transmitter_tb.v
+Ftransmitter_tb.v
+L0 8
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vUARTtb
+!s110 1704197852
+!i10b 1
+!s100 KF_HG<o^[`d3QPeU8T@3m1
+In]3;i@G>TMe^Z_7H9>8zz2
+R3
+dD:/VERILOG PROJECTS/UART PROJECT/RECEIVER_RX
+w1704196733
+8UARTtb.v
+FUARTtb.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1704197852.000000
+!s107 UARTtb.v|
+!s90 -reportprogress|300|UARTtb.v|+acc|
+!i113 0
+R8
+R1
+n@u@a@r@ttb
